@@ -1,13 +1,13 @@
 # Introduction-to-Excel
 
-# Excel Basics:
+## Excel Basics:
 
-    1.	Understanding the Excel interface
+   Understanding the Excel interface
     
-    2.	Sort and Filter
+   Sort and Filter
     
-    3.	Report Making: Basic, Conditional and Advance Formatting
+   Report Making: Basic, Conditional and Advance Formatting
     
-    4.	Printing and Page Layouts
+   Printing and Page Layouts
     
-    5.	Passwords and Naming Files
+   Passwords and Naming Files
