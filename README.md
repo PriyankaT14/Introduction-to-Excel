@@ -1,6 +1,6 @@
 # Introduction-to-Excel
 
-#Excel Basics:
+# Excel Basics:
 
     1.	Understanding the Excel interface
     
